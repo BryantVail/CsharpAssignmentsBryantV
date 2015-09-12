@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Grade: 10/10 Nice job, I like the extra touch
 namespace BVail_3_15App
 {
     class Program
